@@ -17,7 +17,7 @@
 ┌──────────────────────────────────────────────┐
 │  NOMBRE     : Casterice                      │
 │  ROL        : Full Stack Developer           │
-│  UBICACIÓN  : Guatemala 🇬🇹                   │
+│  UBICACIÓN  : Guatemala, GT                  │
 │  ENFOQUE    : Web apps limpias y rápidas     │
 │  AHORA      : Construyendo con React + Next  │
 │  APRENDIENDO: NestJS                         │
