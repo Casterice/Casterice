@@ -59,17 +59,11 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-### `[ 04 ] PROYECTOS`
-
-| ● | PROYECTO | DESCRIPCIÓN | STACK |
-|---|----------|-------------|-------|
-| 🔴 | [**Luna-link-in-bio**](https://github.com/Casterice/Luna-link-in-bio) | Página link-in-bio minimalista | `Web` |
-| ⚪ | [**ale-vale-cumple**](https://github.com/Casterice/ale-vale-cumple) | Sitio de cumpleaños personalizado | `TS` |
-| ⚪ | [**MEAN**](https://github.com/Casterice/MEAN) | API REST con stack MEAN | `Node` `Mongo` |
+<p align="center"><code>● Account for personal, non-commercial projects.</code></p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-### `[ 05 ] CONTACTO`
+### `[ 04 ] CONTACTO`
 
 <p>
   <a href="mailto:joanrandy34@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D71921" alt="Email"></a>
